@@ -1,0 +1,98 @@
+@media screen and (min-width: 1017px) and (max-width: 1372px) {
+
+  .image_gallery {
+    width: 60%; 
+  }
+  .image_card{
+    padding: 10px;
+  }
+ .yell {
+    width: 42.75rem;
+    height: 15.5rem;
+    border: 2px groove rgba(251, 255, 30, 0.925);
+    padding: 11.25rem;
+    margin: 3.8125rem;
+    margin-left: 1%;
+    transform: translateY(11.8125rem);
+
+    margin-top: -6rem;
+  }
+  .yell h2 {
+    font-size: 20px;
+
+  }
+  .yell p {
+    font-size: 17px;
+    margin-left: -53%;
+    max-width: 380px;   
+  }
+ 
+}
+@media screen and (min-width: 900px) and (max-width: 1016px) {
+  header .nav_bar {
+    padding: 25px 20px;
+  }
+  .text_content p {
+    font-size: 21px;
+    width: 700px;
+    padding: 1.125rem;
+  }
+  .carousel-item .text_contentocean p {
+    font-size: 21px;
+    width: 700px;
+    max-width: 1000px;
+    padding: 1.125rem;
+  }
+  .image_card {
+    padding: 14px;
+  }
+  .yell {
+    width: 42.75rem;
+    height: 15.5rem;
+    border: 2px groove rgba(251, 255, 30, 0.925);
+    padding: 11.25rem;
+    margin: 3.8125rem;
+    margin-left: 1%;
+    transform: translateY(11.8125rem);
+    margin-top: -6rem;
+  }
+  .yell h2 {
+    font-size: 21px;
+  }
+  .yell p {
+    font-size: 19px;
+    margin-left: -53%;
+    max-width: 380px;
+  }
+  .yellow2 {
+    max-width: 330px;
+    transform: translateX(7.25rem);
+    border: 2px groove rgba(251, 255, 30, 0.925);
+    margin-bottom: 2.5rem;
+    white-space: normal;
+  }
+  .yellow2 .text {
+    font-size: 30px;
+    margin-top: 22px;
+  }
+  .yellow2 .text p {
+    font-family: serif;
+    font-size: 17px;
+    margin-top: -17%;
+    transform: translateX(80%);
+    cursor: pointer;
+    text-align: left;
+  }
+  .mb-3 {
+    font-size: 13px;
+    width: 10.75rem;
+    transform: translateX(7.1875rem);
+  }
+  .button {
+    width: 8.25rem;
+    height: 50px;
+    margin-left: 19.375rem;
+    transform: translateY(-69px);
+
+  }
+}
